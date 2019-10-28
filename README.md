@@ -1,7 +1,8 @@
-#Plug1n
+# This project is dead
+# Plug1n
 Download and install NTR Plugins for your 3ds easily! App based on [Homebr3w](https://github.com/Wolvan/Homebr3w)
 
-##Usage
+## Usage
 Simply download the .cia file from the [releases page](https://github.com/no1dead/Plug1n/releases) and install it with your favorite .cia Installer, for example FBI. You can also just scan the QR Code from the releases page as well.
 
 You can also use the .3ds version for a flashcard or the .3dsx version for *hax.
